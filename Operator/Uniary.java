@@ -1,4 +1,4 @@
-class Uniary 
+class Uniary  
 {
     public static void main(String[] args)
     {
